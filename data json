@@ -123,82 +123,82 @@
         "tt": "1 jam 42 menit"
     },
     {
-        "cn": "120 Gr     168 Kcal     1 Hour 10 Min",
-        "ct": "3 minutes",
-        "dc": "Pochero or Puchero is a well-loved Filipino stew. Made with meat, tomatoes, and saba bananas. ",
+        "cn": "120 Gr     168 Kcal     1 jam 10 Min",
+        "ct": "3 Menit",
+        "dc": "Pochero atau Puchero adalah sup yang berasal dari Filipina yang sangat populer. Terbuat dari daging, tomat, dan pisang . ",
         "fn": "Pochero",
         "fv": false,
         "ig": [
             {
-                "c": "1 large",
-                "n": "Banana",
+                "c": "1 buah",
+                "n": "Pisang",
                 "p": "banana.png"
             },
             {
                 "c": "2 pcs",
-                "n": "Tomato",
+                "n": "Tomat",
                 "p": "tomato.png"
             },
             {
                 "c": "1 lb",
-                "n": "Pork Meat",
+                "n": "Daging babi",
                 "p": "pork.png"
             },
             {
                 "c": "1 pc",
-                "n": "Onion",
+                "n": "Bawang merah",
                 "p": "onion.png"
             },
             {
                 "c": "1 tsp",
-                "n": "Garlic",
+                "n": "bawang putih",
                 "p": "garlic.png"
             },
             {
                 "c": "1 tbsp",
-                "n": "Peppercorn",
+                "n": "Merica",
                 "p": "black_pepper.png"
             },
             {
-                "c": "1 medium",
-                "n": "Potato",
+                "c": "1 buah",
+                "n": "Kentang",
                 "p": "potato.png"
             },
             {
                 "c": "1 small",
-                "n": "Cabbage",
+                "n": "Kubis",
                 "p": "cabbage.png"
             },
             {
                 "c": "1 bunch",
-                "n": "Bok Choy",
+                "n": "Sayur Putih",
                 "p": "bokchoy.png"
             },
             {
                 "c": "1/4 lb",
-                "n": "Green Beans",
+                "n": "Kacang Hijau",
                 "p": "green_beans.png"
             },
             {
                 "c": "2 tbsp",
-                "n": "Cooking Oil",
+                "n": "Minyak goreng",
                 "p": "oil.png"
             }
         ],
         "in": [
-            "Heat cooking oil in a cooking pot",
-            "Sauté garlic, onions, and tomatoes",
-            "Add pork and cook until the color turns light brown",
-            "Put-in fish sauce, whole pepper corn, and tomato sauce. Stir.",
-            "Add water and let boil. Simmer until pork is tender (about 30 to 40 minutes)",
-            "Put-in potato, plantain, and chick peas. Cook for 5 to 7 minutes.",
-            "Add cabbage and long green beans. Cook for 5 minutes",
-            "Stir-in the bok choy. Cover the pot and turn off the heat",
-            "Let the residual heat cook the bok choy (about 5 minutes)",
-            "Transfer to a serving plate and serve"
+            "Panaskan minyak goreng dalam wajan yang sudah di siapkan",
+            "Tumis bawang putih, bawang merah, dan tomat",
+            "Tambahkan daging babi dan masak sampai warnanya berubah menjadi cokelat muda",
+            "Masukkan saus ikan,  lada, dan saus tomat. Aduk hingga bahan tercampur merata.",
+            "masak air hingga mendidih. Rebus hingga daging babi empuk (sekitar 30 hingga 40 menit)",
+            "Masukkan kentang, pisang yang telah di potong potong, dan kacang merah. Masak selama 5 hingga 7 menit.",
+            "Tambahkan kubis dan kacang panjang. Masak selama 5 menit",
+            "Aduk adonan. kalau bahan sudah matang segera matikan api",
+            "Biarkan  dimasak adonan (sekitar 5 menit)",
+            "Pindahkan ke piring saji dan sajikan"
         ],
         "pf": "pochero.jpg",
-        "pt": "10 minutes",
+        "pt": "10 meniit",
         "sv": "3",
         "tt": "13 MIN"
     },
