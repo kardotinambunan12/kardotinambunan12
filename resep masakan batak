@@ -1,0 +1,39 @@
+[
+    {
+        "cn": "120 Gr     85 jam     13 Min",
+        "ct": "3 menit",
+        "dc": "Calamares adalah Makanan dari Filipina  hidangan berbahab dasar cumi goreng tepung roti Mediterania. ",
+        "fn": "Calamares",
+        "fv": false,
+        "ig": [
+            {
+                "c": "1/2 kg",
+                "n": "Cumi-cumi",
+                "p": "squid.png"
+            },
+            {
+                "c": "3/4 kg",
+                "n": "Tepung",
+                "p": "flour.png"
+            },
+            {
+                "c": "1 btr",
+                "n": "Telur",
+                "p": "egg.png"
+            },
+            {
+                "c": "1 sendok",
+                "n": "Garam",
+                "p": "salt.png"
+            },
+            {
+                "c": "1/2 grm",
+                "n": "Lada Hitam",
+                "p": "black_pepper.png"
+            },
+            {
+                "c": "2 cangkir",
+                "n": "Minyak Goreng",
+                "p": "oil.png"
+            }
+        ],
